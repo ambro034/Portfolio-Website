@@ -82,7 +82,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: Graham_Ambrose_CV_Fall_11.21.2025.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:gambros@ncsu.edu
         - name: YouTube
