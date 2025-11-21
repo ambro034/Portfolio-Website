@@ -3,7 +3,8 @@ outputs:
 
 # baseURL: "https://graham-ambrose/hugo-website/" 
 # baseURL: "https://soham-gundewar/hugo-website-gambrose/" 
- baseURL: "www.graham-ambrose.online/"
+# baseURL: "http://graham-ambrose.online/"
+baseURL : ""https://ambro034.github.io/Portfolio-Website/" 
 title: Graham Ambrose
 theme: PaperMod
 
