@@ -4,10 +4,6 @@ date: 2025-08-18
 author: "Graham Ambrose"
 description: "An introduction to the fundamentals of the public policy process, covering policy design, implementation, and evaluation through applied exercises."
 summary: "This course introduces the foundations of the public policy process, emphasizing policy design, implementation, and evaluation through applied projects, team-based exercises, and critical thinking development."
-<!-- cover: -->
-<!--     image: "course1.jpg" -->
-<!--     alt: "PA 507 – The Public Policy Process" -->
-<!--     relative: true -->
 tags: ["Public Policy", "Policy Design", "Implementation", "Evaluation", "Governance","Public Policy Process", "Policy Implementation", "Policy Evaluation", "Agenda Setting", "Policy Evolution", "Policy Tools", "Collaborative Governance", "Stakeholder Engagement", "Survey Methods", "Interview Methods", "Public Administration"]
 showToc: true
 disableAnchoredHeadings: false
