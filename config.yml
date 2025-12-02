@@ -2,9 +2,9 @@ outputs:
   home: ["HTML", "RSS", "JSON"]
 
 # baseURL: "https://graham-ambrose/hugo-website/" 
-# baseURL: "https://soham-gundewar/hugo-website-gambrose/" 
-# baseURL: "http://graham-ambrose.online/"
-baseURL : "https://ambro034.github.io/Portfolio-Website/" 
+baseURL: "https://graham-ambrose.online/"
+# baseURL : "https://ambro034.github.io/Portfolio-Website/"
+ 
 title: Graham Ambrose
 theme: PaperMod
 
