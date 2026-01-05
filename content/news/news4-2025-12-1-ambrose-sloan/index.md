@@ -1,6 +1,6 @@
 ---
 title: "Graham Ambrose awarded a $500,000 grant from the Sloan Foundation"
-date: 2025-12-1
+date: 2025-10-16
 author: "Graham Ambrose"
 tags: ["Grants", "Awards", "Energy Policy", "Environmental Policy"]
 summary: "$500,000 grant awarded December 2025."
