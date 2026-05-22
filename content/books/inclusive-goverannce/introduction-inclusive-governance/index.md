@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Inclusive Governance"
-date: 2026-10-03
+date: 2025-10-01
 author: "Graham Ambrose, N. Blau, Saba Siddiki"
 description: "Introductory chapter in the Research Handbook on Inclusive Governance."
 summary: "Foundational overview of inclusive governance and its dimensions."
