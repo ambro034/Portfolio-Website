@@ -1,4 +1,4 @@
 ---
-
 ---
-**Edited Volumes and Book Chapters**
+## Edited Volumes and Book Chapters
+---
