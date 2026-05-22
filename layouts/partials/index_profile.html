@@ -153,8 +153,7 @@
          {{- if eq $imgURL "" -}}
          {{- $cardClass = printf "%s %s" $cardClass "no-image" -}}
          {{- end -}}
-         <article class="{{ $cardClass }}";
-         margin-bottom: 20px>
+         <article class="{{ $cardClass }} mb-3">
             <div class="news-text">
                <h3 class="news-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
                <p class="news-meta">{{ $page.Date.Format "Jan 2, 2006" }}</p>
