@@ -1,6 +1,6 @@
 ---
 title: "Research Handbook on Inclusive Governance"
-date: 2025-10-01
+date: 2026-10-01
 author: "Saba Siddiki, Graham Ambrose (eds.)"
 description: "Edited volume in preparation at Edward Elgar Publishing."
 summary: "Edited volume on inclusive governance across public affairs domains."
@@ -9,6 +9,7 @@ summary: "Edited volume on inclusive governance across public affairs domains."
 #     alt: "Portugese Irregular Verbs"
 #     relative: true
 tags: ["Edited Volume","Inclusive Governance","Edward Elgar"]
+weight: 20
 showToc: True
 disableAnchoredHeadings: true
 ---
