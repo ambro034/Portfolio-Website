@@ -1,6 +1,6 @@
 ---
 title: "Research Handbook on Inclusive Governance"
-date: 202S-10-01
+date: 2025-10-01
 author: "Saba Siddiki, Graham Ambrose (eds.)"
 description: "Edited volume in preparation at Edward Elgar Publishing."
 summary: "Edited volume on inclusive governance across public affairs domains."

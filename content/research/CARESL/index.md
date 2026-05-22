@@ -8,7 +8,7 @@ summary: "Three-year reseacrh project examines how rural electric cooperatives"
 #     image: "book1.jpg"
 #     alt: "Portugese Irregular Verbs"
 #     relative: true
-tags: ["Eelectricity","Cooperatives","Governance","Collaboration","Grant"]
+tags: ["Electricity","Cooperatives","Governance","Collaboration","Grant"]
 showToc: false
 disableAnchoredHeadings: true
 ---
@@ -27,10 +27,10 @@ Rural electric cooperatives across the United States are experiencing rapid grow
 
 This three-year research project examines how rural electric cooperatives and their partners are responding to these challenges through infrastructure investment, demand management, governance, and collaboration.
 
-## Links
+### Links
 🌐 **Project Website:** <https://www.caresl.group/>
 
-## Associated Products
+### Associated Products
 In Preparation
 
 ---
