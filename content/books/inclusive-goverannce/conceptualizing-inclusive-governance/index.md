@@ -5,6 +5,7 @@ author: "Graham Ambrose"
 description: "Chapter in the Research Handbook on Inclusive Governance."
 summary: "A conceptual framework situating inclusive governance across public affairs sub-fields."
 tags: ["Book Chapter","Inclusive Governance","Conceptual Framework"]
+weight: 2
 showToc: false
 disableAnchoredHeadings: true
 ---

@@ -9,6 +9,7 @@ summary: "Edited volume on inclusive governance across public affairs domains."
 #     alt: "Portugese Irregular Verbs"
 #     relative: true
 tags: ["Edited Volume","Inclusive Governance","Edward Elgar"]
+weight: 1
 showToc: True
 disableAnchoredHeadings: true
 ---

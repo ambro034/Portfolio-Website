@@ -5,6 +5,7 @@ author: "Graham Ambrose, N. Blau, Saba Siddiki"
 description: "Introductory chapter in the Research Handbook on Inclusive Governance."
 summary: "Foundational overview of inclusive governance and its dimensions."
 tags: ["Book Chapter","Inclusive Governance","Introduction"]
+weight: 1
 showToc: false
 disableAnchoredHeadings: true
 ---

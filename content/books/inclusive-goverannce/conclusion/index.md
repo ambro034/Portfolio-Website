@@ -5,6 +5,7 @@ author: "Saba Siddiki, Graham Ambrose, Nina Blau"
 description: "Conclusion for the Research Handbook on Inclusive Governance."
 summary: "Retrospective on the conceptual framework situating inclusive governance across public affairs sub-fields."
 tags: ["Book Chapter","Inclusive Governance","Conceptual Framework"]
+weight: 3
 showToc: false
 disableAnchoredHeadings: true
 ---
