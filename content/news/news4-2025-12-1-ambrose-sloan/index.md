@@ -3,7 +3,7 @@ title: "Graham Ambrose awarded a $500,000 grant from the Sloan Foundation"
 date: 2025-12-01
 author: "Graham Ambrose"
 tags: ["Grants", "Awards", "Energy Policy", "Environmental Policy"]
-summary: "$500,000 grant awarded December 2025 engaging collaborative approaches to electrification, load growth, and demand management in rural electric co-ops.//
+summary: "$500,000 grant awarded December 2025 engaging collaborative approaches to electrification, load growth, and demand management in rural electric co-ops. <br>
 
 🌐 **Project Website:** <https://www.caresl.group/> "
 ---
