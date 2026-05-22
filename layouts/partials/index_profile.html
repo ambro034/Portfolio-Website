@@ -121,7 +121,7 @@
       {{- $pages = $pages.ByDate.Reverse -}}
       <section class="home-news">
          <h2 class="home-news-title">Latest news</h2>
-         {{- range first 1 $pages -}}
+         {{- range first 3 $pages -}}
          {{- $page := . -}}
          {{- $imgURL := "" -}}
          {{- $imgAlt := "News image" -}}
