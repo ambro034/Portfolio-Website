@@ -1,6 +1,6 @@
 ---
 title: "Conclusion: Policy Process, Public Administration, and Public Management"
-date: 2025-10-01
+date: 2026-10-01
 author: "Saba Siddiki, Graham Ambrose, Nina Blau"
 description: "Conclusion for the Research Handbook on Inclusive Governance."
 summary: "Retrospective on the conceptual framework situating inclusive governance across public affairs sub-fields."

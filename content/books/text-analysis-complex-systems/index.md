@@ -1,6 +1,5 @@
 ---
 title: "Chapter N :Text Analysis for the study of complex systems"
-date: 2026-10-01
 author: "Thomas Olivier, Graham Ambrose, Saba Siddiki"
 description: "Chapter in the Handbook of Complex Policy Governance."
 summary: "Chapter in the Handbook of Complex Policy Governance exploring the use of text analysis to examine complex policy systems."
