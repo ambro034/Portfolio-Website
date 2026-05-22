@@ -8,6 +8,7 @@ summary: "This Handbook provides academic foundations and practical experiences 
 #     alt: "Portugese Irregular Verbs"
 #     relative: true
 tags: ["Edited Volume","Inclusive Governance","Edward Elgar"]
+weight: 10
 showToc: True
 disableAnchoredHeadings: true
 ---
