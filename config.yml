@@ -68,7 +68,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Research Bio
+            - name: Research Projects
               url: research/
             - name: Courses
               url: courses/
