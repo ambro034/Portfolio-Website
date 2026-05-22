@@ -3,7 +3,7 @@ title: "Graham Ambrose named Associate Editor of Policy Design & Practice"
 date: 2025-10-16
 author: "Graham Ambrose"
 tags: ["Appointments", "Editorial Role", "Policy Design & Practice"]
-summary: "Appointment began in September 2025."
+summary: "NC State SPIA announced that Graham Ambrose was appointed Associate Editor of Policy Design & Practice."
 ---
 
 NC State SPIA announced that Graham Ambrose was appointed Associate Editor of *Policy Design & Practice*. According to the SPIA news post, the appointment began in September 2025.
