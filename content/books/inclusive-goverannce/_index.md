@@ -1,5 +1,5 @@
 ---
-title: "Research Handbook on Inclusive Governance"
+title: "Edited Volume: Research Handbook on Inclusive Governance"
 author: "Saba Siddiki, Graham Ambrose (eds.)"
 description: "Edited volume in preparation at Edward Elgar Publishing."
 summary: "This Handbook provides academic foundations and practical experiences of inclusive governance that outline how inclusion is measured, how it takes shape and how it links to outcomes. Leading experts present a synthesis of research which integrates conceptual insights and practitioner expertise."
