@@ -9,14 +9,14 @@ summary: "Three-year reseacrh project examines how rural electric cooperatives"
 #     alt: "Portugese Irregular Verbs"
 #     relative: true
 tags: ["Eelectricity","Cooperatives","Governance","Collaboration","Grant"]
-showToc: True
+showToc: false
 disableAnchoredHeadings: true
 ---
 
 **Funder:** Alfred P. Sloan Foundation Energy System Interactions Grant \
 **Role:** Principal Investigator
 
-**Term:** Three-year - 2026-2029
+**Term:** 2026-2029 \
 **Value:** $500,000  
 
 ---
