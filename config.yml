@@ -18,7 +18,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Research Bio
+        - name: Research Projects
           url: research/
           weight: 1
         - name: Papers
