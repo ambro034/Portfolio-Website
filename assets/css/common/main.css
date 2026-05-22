@@ -88,7 +88,7 @@ pre:hover .copy-code {
     /* text + reserved right image */
     gap: 3rem;
     align-items: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     padding: 1rem 1.25rem;
     border-radius: 14px;
     /* rounded, like buttons */
