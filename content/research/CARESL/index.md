@@ -13,13 +13,24 @@ showToc: True
 disableAnchoredHeadings: true
 ---
 
-**Funder:** Alfred P. Sloan Foundation Energy System Interactions Grant.
+**Funder:** Alfred P. Sloan Foundation Energy System Interactions Grant \
 **Role:** Principal Investigator
 
-**Term:** 2026-2029; $500,000  
+**Term:** Three-year - 2026-2029
+**Value:** $500,000  
 
 ---
 
-### Our Proposal 
-Test
+### Our Project 
+
+Rural electric cooperatives across the United States are experiencing rapid growth in electricity demand as data centers, manufacturing facilities, and expanding residential development move into areas that historically saw slow or stable growth. While these changes create economic opportunities, they also place new pressures on co-ops to manage infrastructure constraints, rising costs, and community concerns—while maintaining reliable and affordable electricity.
+
+This three-year research project examines how rural electric cooperatives and their partners are responding to these challenges through infrastructure investment, demand management, governance, and collaboration.
+
+## Links
+🌐 **Project Website:** <https://www.caresl.group/>
+
+## Outputs
+In Preparation
+
 ---
