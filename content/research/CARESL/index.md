@@ -30,7 +30,7 @@ This three-year research project examines how rural electric cooperatives and th
 ## Links
 🌐 **Project Website:** <https://www.caresl.group/>
 
-## Outputs
+## Associated Products
 In Preparation
 
 ---
