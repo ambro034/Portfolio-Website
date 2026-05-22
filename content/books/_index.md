@@ -5,4 +5,4 @@ summary: "Edited by Saba Siddiki and Graham Ambrose."
 tags: ["Edited Volume","Inclusive Governance","Edward Elgar"]
 weight: 10
 ---
-**Status:** In preparation 
+**Edited Volumes and Book Chapters**
