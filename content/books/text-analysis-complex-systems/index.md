@@ -8,4 +8,8 @@ weight: 20
 showToc: false
 disableAnchoredHeadings: true
 ---
-📄 **Download:** [PDF](olivier-ambrose-siddiki_text-analysis-complex-systems.pdf)
+
+**Status:** In preparation  
+**Publisher:** Edward Elgar Publishing
+
+---
