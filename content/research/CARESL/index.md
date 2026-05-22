@@ -3,7 +3,7 @@ title: "Collaborative Approaches to Rural Electric Strategies with Load (CARESL)
 date: 2025-12-01
 # author: "Saba Siddiki, Graham Ambrose (eds.)"
 description: "This three-year reseacrh project examines how rural electric cooperatives and their partners are responding to these challenges through infrastructure investment, demand management, governance, and collaboration."
-summary: "Three-year reseacrh project examines how rural electric cooperatives"
+summary: "Three-year reseacrh project examining how rural electric cooperatives and their partners are responding to these challenges through infrastructure investment, demand management, governance, and collaboration."
 # cover:
 #     image: "book1.jpg"
 #     alt: "Portugese Irregular Verbs"

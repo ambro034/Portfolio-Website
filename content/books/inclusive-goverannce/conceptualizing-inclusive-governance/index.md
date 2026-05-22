@@ -1,6 +1,6 @@
 ---
 title: "Conceptualizing Inclusive Governance across Sub-Fields of Public Affairs: Policy Process, Public Administration, and Public Management"
-date: 2026-10-01
+date: 2026-10-02
 author: "Graham Ambrose"
 description: "Chapter in the Research Handbook on Inclusive Governance."
 summary: "A conceptual framework situating inclusive governance across public affairs sub-fields."
