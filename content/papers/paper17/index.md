@@ -2,8 +2,8 @@
 title: "The Social Architecture of Collaborations in Four Watersheds: Convergence, Path Dependence, and the Collaborative Life-Cycle Framework"
 date: 2026-05-29
 author: "Mark T. Imperial; Graham Ambrose"
-description: "Using the Collaborative Life-Cycle Framework, this study shows how watershed collaborations develop structures through evolving boundary, decision, and coordination rules."
-summary: "Using the Collaborative Life-Cycle Framework, this study examines how collaborations develop organizational structures. Analysis of four U.S. watershed collaborations identifies boundary, decision, and coordination rules as key elements of social architecture, showing that small changes can produce significant structural differences and influence collaborative evolution."
+description: "Using the Collaborative Life-Cycle Framework, this study examines how collaborations develop organizational structures. Analysis of four U.S. watershed collaborations identifies boundary, decision, and coordination rules as key elements of social architecture, showing that small changes can produce significant structural differences and influence collaborative evolution."
+summary: "Using the Collaborative Life-Cycle Framework, this study shows how watershed collaborations develop structures through evolving boundary, decision, and coordination rules."
 tags: ["collaboration", "collaborative governance", "networks", "network governance", "institutional analysis", "watershed governance", "implementation structure", "process analysis"]
 showToc: false
 disableAnchoredHeadings: true
