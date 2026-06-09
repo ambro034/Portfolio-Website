@@ -33,4 +33,4 @@ when policy evolution is observed at the micro-level, both patching and packagin
 
 ## Citation
 
-Ambrose, G. and Gregoire-Zawilski, M., Mapping Measurement to Theory in Policy Evolution: A Case of Net Metering Policies of the United States. *Policy Studies Journal*, [https://doi.org/10.1111/psj.70133Digital](https://doi.org/10.1111/psj.70133).
+Ambrose, G. and Gregoire-Zawilski, M., Mapping Measurement to Theory in Policy Evolution: A Case of Net Metering Policies of the United States. *Policy Studies Journal*, [https://doi.org/10.1111/psj.70133](https://doi.org/10.1111/psj.70133).
