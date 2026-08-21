@@ -24,7 +24,7 @@ The examination of policy evolution has important practical implications, but cu
 - 📄 **PDF** [Download](paper18.pdf)
 - 🌐 **Publisher page:** <https://onlinelibrary.wiley.com/doi/full/10.1111/psj.70133>
 - 🌐 **Research to Practice Brief:** [Here](https://surface.syr.edu/cpdg/16/?_gl=1*t9l3je*_gcl_au*MzYzMjU2NjQxLjE3ODUxNTg5NTI.*_ga*Njk2MTc2MTAuMTc4NTE1ODk1Mg..*_ga_QT13NN6N9S*czE3ODczMTg1NDkkbzQkZzAkdDE3ODczMTg1NTAkajU5JGwwJGgw*_ga_SRVN5YVLB5*czE3ODczMTg1NDkkbzQkZzAkdDE3ODczMTg1NDkkajYwJGwwJGgw)
-- 💻 Python Package Resources:
+- 💻 **Python Package Resources**:
     - Policy Depth and Width Python package: [Here](https://github.com/ambro034/Policy_Depth_and_Width)
     - Google Colab example: [Here](https://colab.research.google.com/drive/1lH-aBrbnMOuaOC8xuKMb4bBAu1h7wrLB#scrollTo=38PTdAVvLWeP)
 
