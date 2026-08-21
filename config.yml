@@ -98,6 +98,8 @@ params:
           url: https://scholar.google.com/citations?user=MZ5VmHMAAAAJ&hl=en&oi=sra
         - name: GitHub
           url:  https://github.com/ambro034
+        - name: ORCID
+          url: https://orcid.org/0000-0003-2784-2649
 
     assets:
         disableScrollBarStyle: true
