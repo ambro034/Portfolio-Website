@@ -98,8 +98,6 @@ params:
           url: https://scholar.google.com/citations?user=MZ5VmHMAAAAJ&hl=en&oi=sra
         - name: GitHub
           url:  https://github.com/ambro034
-        - name: mug-saucer
-          url:  https://github.com/ambro034
 
     assets:
         disableScrollBarStyle: true
