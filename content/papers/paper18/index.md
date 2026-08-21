@@ -17,19 +17,17 @@ doi: "10.1111/psj.70133"
 
 ## Abstract
 
-The examination of policy evolution has important practical implications, but current literature often only evaluates changing
-policy goals and instruments at the macro-level, overlooking changes that occur at the more granular, micro-level of policy text.
-Furthermore, concepts such as policy patching and packaging have achieved theoretical salience but lack operationalization in
-the context of medium- to large-N studies. We offer a new approach for measuring dynamics of patching and packaging, proposing three dimensions of a single measure evaluating evolution in policy text: (1) depth: the extent of change, on average, across
-policy statements, (2) width: how these changes are distributed across the policy, and (3) the (a)symmetry of depth and width
-across added and terminated text. With these three dimensions, we offer a more nuanced exploration of patching and packaging
-dynamics. We test our approach using net metering legislations enacted and amended across 32 states since 1980. We find that
-when policy evolution is observed at the micro-level, both patching and packaging dynamics are prevalent, with packaging occurring almost as often as patching. Thus, we contribute to the study of the public policy process by offering a new theoretically-rooted approach to measuring policy evolution dynamics using policy text as data.
+The examination of policy evolution has important practical implications, but current literature often only evaluates changing policy goals and instruments at the macro-level, overlooking changes that occur at the more granular, micro-level of policy text. Furthermore, concepts such as policy patching and packaging have achieved theoretical salience but lack operationalization in the context of medium- to large-N studies. We offer a new approach for measuring dynamics of patching and packaging, proposing three dimensions of a single measure evaluating evolution in policy text: (1) depth: the extent of change, on average, across policy statements, (2) width: how these changes are distributed across the policy, and (3) the (a)symmetry of depth and width across added and terminated text. With these three dimensions, we offer a more nuanced exploration of patching and packaging dynamics. We test our approach using net metering legislations enacted and amended across 32 states since 1980. We find that when policy evolution is observed at the micro-level, both patching and packaging dynamics are prevalent, with packaging occurring almost as often as patching. Thus, we contribute to the study of the public policy process by offering a new theoretically-rooted approach to measuring policy evolution dynamics using policy text as data.
 
 ## Links
 
 - 📄 **PDF** [Download](paper18.pdf)
 - 🌐 **Publisher page:** <https://onlinelibrary.wiley.com/doi/full/10.1111/psj.70133>
+- 🌐 **Research to Practice Brief:** <https://surface.syr.edu/cpdg/16/?_gl=1*t9l3je*_gcl_au*MzYzMjU2NjQxLjE3ODUxNTg5NTI.*_ga*Njk2MTc2MTAuMTc4NTE1ODk1Mg..*_ga_QT13NN6N9S*czE3ODczMTg1NDkkbzQkZzAkdDE3ODczMTg1NTAkajU5JGwwJGgw*_ga_SRVN5YVLB5*czE3ODczMTg1NDkkbzQkZzAkdDE3ODczMTg1NDkkajYwJGwwJGgw>
+- 💻 Python Package Resources:
+    - Policy Depth and Width Python package <https://github.com/ambro034/Policy_Depth_and_Width>
+    - Google Colab example <https://colab.research.google.com/drive/1lH-aBrbnMOuaOC8xuKMb4bBAu1h7wrLB#scrollTo=38PTdAVvLWeP>
+
 
 ## Citation
 
