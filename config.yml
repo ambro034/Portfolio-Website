@@ -87,13 +87,13 @@ params:
           url: mailto:gambros@ncsu.edu
         - name: YouTube
           url: https://www.youtube.com/@ArtOfSciencePod
-        - name: Office Hours
-          url: officehours/
-        - name: Zoom
-          url: officehours/
-          title: "Request appointment to receive Zoom link"
-        - name: Location
-          url: location/
+        #- name: Office Hours
+        #  url: officehours/
+        #- name: Zoom
+        #  url: officehours/
+        #  title: "Request appointment to receive Zoom link"
+        #- name: Location
+        #  url: location/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=MZ5VmHMAAAAJ&hl=en&oi=sra
         - name: GitHub
