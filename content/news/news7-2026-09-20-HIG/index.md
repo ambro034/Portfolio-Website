@@ -1,6 +1,6 @@
 ---
 title: "The Handbook on Inclusive Governance published at Edward Elgar"
-date: 2026-07-17
+date: 2026-09-20
 author: "Graham Ambrose"
 tags: ["Handbook", "Inclusive", "Governance", "Inclusive Governance"]
 summary: "Siddiki and Ambrose publish their edited volumn on inclusive governance  -- September 2026."

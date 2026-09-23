@@ -25,7 +25,7 @@ Edited Volume: Handbook on Inclusive Governance
 
 ---
 
-### Our Proposal 
+### Overview 
 This Handbook provides academic foundations and practical experiences of inclusive governance that outline how inclusion is measured, how it takes shape and how it links to outcomes. Leading experts present a synthesis of research which integrates conceptual insights and practitioner expertise.
 
 Chapters explore a variety of inclusive governance approaches and analyse how representation of communities served by these approaches takes shape. Contributors evaluate methods used to actively bring about inclusion and engage with context-specific questions fundamental to inclusive governance. They draw on global case studies demonstrating the importance of context-sensitive governance, for example in post-disaster housing recovery, policing, food system design and green transitions. By combining theoretical insights with case-based lessons, this Handbook advances understanding of inclusive governance and offers guidance for designing, evaluating and implementing inclusive practices in public affairs.
