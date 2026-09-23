@@ -34,118 +34,92 @@ The Handbook on Inclusive Governance is an invaluable resource for scholars and 
 
 ### Table of Contents 
 
-## Part I. Conceptualization and Measurement of Inclusive Governance
+### Part I. Conceptualization and Measurement of Inclusive Governance
 
-### 1. Introduction to the Handbook on Inclusive Governance
+**1. Introduction to the Handbook on Inclusive Governance**
 
-**Graham Ambrose, Saba Siddiki, and Nina R. Y. Blau**
-*Page 1*
+*Graham Ambrose, Saba Siddiki, and Nina R. Y. Blau*
 
-### 2. Conceptualizing Inclusive Governance Across Sub-fields of Public Affairs: Policy Process, Public Administration, and Public Management
+**2. Conceptualizing Inclusive Governance Across Sub-fields of Public Affairs: Policy Process, Public Administration, and Public Management**
 
-**Graham Ambrose**
-*Page 12*
+*Graham Ambrose*
 
-### 3. Governance Theory
+**3. Governance Theory**
 
-**Christopher Ansell**
-*Page 32*
+*Christopher Ansell*
 
-### 4. Measuring and Evaluating Inclusive Governance
+**4. Measuring and Evaluating Inclusive Governance**
 
-**Tomas M. Koontz**
-*Page 49*
+*Tomas M. Koontz*
 
-### 5. Inclusive Governance as a Bedrock Principle of Liberal Democracy: Overcoming the Gaps Between Ideals and Reality
+**5. Inclusive Governance as a Bedrock Principle of Liberal Democracy: Overcoming the Gaps Between Ideals and Reality**
 
-**Christopher Koliba, D’Arlyn Bell, and Inoru Yamamoto Morris**
-*Page 66*
+*Christopher Koliba, D’Arlyn Bell, and Inoru Yamamoto Morris*
 
----
+### Part II. Cases of Inclusive Governance
 
-## Part II. Cases of Inclusive Governance
+**6. Participatory Budgeting and Social Justice: Divergent Goals and Mixed Outcomes?**
 
-### 6. Participatory Budgeting and Social Justice: Divergent Goals and Mixed Outcomes?
+*Iuliia Shybalkina*
 
-**Iuliia Shybalkina**
-*Page 83*
+**7. Bringing the Voices In: Affective Spheres of Governance**
 
-### 7. Bringing the Voices In: Affective Spheres of Governance
+*Anna Durnová and Felix L. Ihrig*
 
-**Anna Durnová and Felix L. Ihrig**
-*Page 99*
+**8. Public Participation and Inclusivity in Kenya’s County-Level Energy Planning Process**
 
-### 8. Public Participation and Inclusivity in Kenya’s County-Level Energy Planning Process
+*Elizabeth Baldwin and Everline Ogega*
 
-**Elizabeth Baldwin and Everline Ogega**
-*Page 115*
+**9. Inclusive Governance in Policing: A New Public Governance Approach**
 
-### 9. Inclusive Governance in Policing: A New Public Governance Approach
+*James E. Wright II, Brittany D. Houston, and Abby K. Kinch*
 
-**James E. Wright II, Brittany D. Houston, and Abby K. Kinch**
-*Page 136*
+**10. Metagoverning the Inclusive and Empowered Co-creation of Green Transitions**
 
-### 10. Metagoverning the Inclusive and Empowered Co-creation of Green Transitions
+*Alexander L. Q. Chen-Florea, Oda Hustad, and Jacob Torfing*
 
-**Alexander L. Q. Chen-Florea, Oda Hustad, and Jacob Torfing**
-*Page 157*
+**11. Inclusive Governance in Food Systems Planning and Policy**
 
-### 11. Inclusive Governance in Food Systems Planning and Policy
+*Jill K. Clark, Aiden Irish, and Karen Bassarab*
 
-**Jill K. Clark, Aiden Irish, and Karen Bassarab**
-*Page 176*
+**12. Towards Guiding Principles for AI Chatbots and Inclusive Governance**
 
-### 12. Towards Guiding Principles for AI Chatbots and Inclusive Governance
+*Nicholas Croce, Md Abu Talha, and Kayla Schwoerer*
 
-**Nicholas Croce, Md Abu Talha, and Kayla Schwoerer**
-*Page 192*
+**13. Inclusive Governance in Post-disaster Housing Recovery: Adaptive Policies, Practices, and Mechanisms**
 
-### 13. Inclusive Governance in Post-disaster Housing Recovery: Adaptive Policies, Practices, and Mechanisms
+*Karen D. Sweeting and Alka Sapat*
 
-**Karen D. Sweeting and Alka Sapat**
-*Page 211*
+**14. The Responsible Governance of Artificial Intelligence**
 
-### 14. The Responsible Governance of Artificial Intelligence
+*Emma J. Spett, Benjamin E. K. Ryan, Lindsey Bouzan, Halimeh Abuayyash, Kate Mays, Asim Zia, Maaz Gardezi, and Pablo Cárcamo*
 
-**Emma J. Spett, Benjamin E. K. Ryan, Lindsey Bouzan, Halimeh Abuayyash, Kate Mays, Asim Zia, Maaz Gardezi, and Pablo Cárcamo**
-*Page 229*
+### Part III. Lessons from Practice
 
----
+**15. Democratizing Air Quality Data Through Low-cost Monitoring Networks**
 
-## Part III. Lessons from Practice
+*Kelly A. Stevens, Thomas Andrew Bryer, and Wanda Parker*
 
-### 15. Democratizing Air Quality Data Through Low-cost Monitoring Networks
+**16. Inclusive Governance Efforts in Climate Adaptation Interventions: Trade-offs Between Water Security, Climate Resilience, and Environmental Justice**
 
-**Kelly A. Stevens, Thomas Andrew Bryer, and Wanda Parker**
-*Page 253*
+*Linda Méndez-Barrientos and Amanda L. Fencl*
 
-### 16. Inclusive Governance Efforts in Climate Adaptation Interventions: Trade-offs Between Water Security, Climate Resilience, and Environmental Justice
+**17. University of Minnesota Extension Regional Sustainable Development Partnerships**
 
-**Linda Méndez-Barrientos and Amanda L. Fencl**
-*Page 271*
+*Molly Zins*
 
-### 17. University of Minnesota Extension Regional Sustainable Development Partnerships
+**18. Leadership Style and Inclusive Governance: U.S. Federal Government’s Senior Executive Service**
 
-**Molly Zins**
-*Page 286*
+*Catherine Gerard, Margaret G. Hermann, and Joanne M. Kim*
 
-### 18. Leadership Style and Inclusive Governance: U.S. Federal Government’s Senior Executive Service
+### Part IV. Trends and Future Directions for Research
 
-**Catherine Gerard, Margaret G. Hermann, and Joanne M. Kim**
-*Page 302*
+**19. Leveraging Community Engaged Research Approaches to Reveal Inclusive Processes: A Collaborative Governance Perspective**
 
----
+*Madison Lackey, Jack Mewhirter, and Danielle M. McLaughlin*
 
-## Part IV. Trends and Future Directions for Research
+**20. Inclusive Governance: Handbook Themes and Next Steps**
 
-### 19. Leveraging Community Engaged Research Approaches to Reveal Inclusive Processes: A Collaborative Governance Perspective
-
-**Madison Lackey, Jack Mewhirter, and Danielle M. McLaughlin**
-*Page 315*
-
-### 20. Inclusive Governance: Handbook Themes and Next Steps
-
-**Saba Siddiki, Graham Ambrose, and Nina R. Y. Blau**
-*Page 336*
+*Saba Siddiki, Graham Ambrose, and Nina R. Y. Blau*
 
 ---
