@@ -12,6 +12,8 @@ weight: 10
 showToc: True
 disableAnchoredHeadings: true
 ---
+Edited Volume: Handbook on Inclusive Governance
+---
 
 **Publisher:** Edward Elgar Publishing
 
@@ -20,6 +22,7 @@ disableAnchoredHeadings: true
 **ISBN:** 978 1 03534 011 8
 
 **The Handbook's page through Edward Elgar (external):** [here](https://www.e-elgar.com/shop/usd/handbook-on-inclusive-governance-9781035340118.html?srsltid=AU7gw4WOG3a8fpVBNfgiDNa-KE2_ebbv-Ayp21wuUCq-oULXS64Ymy34).
+
 ---
 
 ### Our Proposal 
