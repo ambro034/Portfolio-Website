@@ -1,7 +1,7 @@
 ---
-title: "Edited Volume: Research Handbook on Inclusive Governance"
+title: "Edited Volume: Handbook on Inclusive Governance"
 author: "Saba Siddiki, Graham Ambrose (eds.)"
-description: "Edited volume in preparation at Edward Elgar Publishing."
+description: "Edited volume at Edward Elgar Publishing."
 summary: "This Handbook provides academic foundations and practical experiences of inclusive governance that outline how inclusion is measured, how it takes shape and how it links to outcomes. Leading experts present a synthesis of research which integrates conceptual insights and practitioner expertise."
 # cover:
 #     image: "book1.jpg"
@@ -13,20 +13,20 @@ showToc: True
 disableAnchoredHeadings: true
 ---
 
-**Status:** In preparation  
 **Publisher:** Edward Elgar Publishing
 
 **Editors:** Saba Siddiki, Graham Ambrose
 
+**ISBN:** 978 1 03534 011 8
+
+**The Handbook's page through Edward Elgar (external):** [here](https://www.e-elgar.com/shop/usd/handbook-on-inclusive-governance-9781035340118.html?srsltid=AU7gw4WOG3a8fpVBNfgiDNa-KE2_ebbv-Ayp21wuUCq-oULXS64Ymy34).
 ---
 
 ### Our Proposal 
-Governance is a topic of sustained scientific inquiry and practical guidance (Rhodes, 2007). Enduring focus on the topic of governance reflects its salience across realms of social organization. It furthermore conveys acknowledgement that governance is a complicated, dynamic, and often challenging task, thereby stimulating regular investigation into what it entails, when and how it evolves, and under what conditions it is effective. 
+This Handbook provides academic foundations and practical experiences of inclusive governance that outline how inclusion is measured, how it takes shape and how it links to outcomes. Leading experts present a synthesis of research which integrates conceptual insights and practitioner expertise.
 
-Within the study and practice of public affairs, governance is now widely understood and studied as the act of convening in the policy process different stakeholders who are impacted by, or otherwise have a vested interest in, the provision of public goods and services. Those convening stakeholders can be different types of actors – e.g., policymakers, government agencies, nonprofit and civil society organizations. However, they share a common goal of involving representatives of communities who will be affected by public sector decision-making in some aspect of policy agenda setting, design, implementation, and/or evaluation. Governance thus involves consideration of both diversity in who is convening stakeholders and well as in the stakeholders themselves. 
+Chapters explore a variety of inclusive governance approaches and analyse how representation of communities served by these approaches takes shape. Contributors evaluate methods used to actively bring about inclusion and engage with context-specific questions fundamental to inclusive governance. They draw on global case studies demonstrating the importance of context-sensitive governance, for example in post-disaster housing recovery, policing, food system design and green transitions. By combining theoretical insights with case-based lessons, this Handbook advances understanding of inclusive governance and offers guidance for designing, evaluating and implementing inclusive practices in public affairs.
 
-Within the realm of public affairs, “governance” can be juxtaposed with “government”. Governance involves “steering” deliberations involving government and non-government policy stakeholders, allowing stakeholder input to shape the identification of policy problems and solutions. Government involves government actors “directing” other government and non-government actors in implementing policy activities and solutions (Ansell and Torfing, 2022). Governance, conceived of in this way, is touted for its strategic and normative benefits. Strategically, governance is posited to support decision-making on complex issues marked by multiple, interrelated causes and consequences, since it is designed to elicit diverse kinds of information and viewpoints to support understanding of such issues. Normatively, with its emphasis on decentralized decision-making and participation by non-governmental actors in the policy process, governance is seen as consistent with democratic principles.
-
-Even as governance is now widely understood as stakeholder engagement in decision making, those involved in the study and practice of governance recognize variability in the extent to which it is “inclusive.” Beyond the act of governance alone, “inclusive governance” prompts consideration of whether those engaged in decision making are representative of the communities they serve; the different ways that those engaged in decision making are represented in deliberations, agendas, and outputs relating to public sector decision making; the different backgrounds, positions, and past and present experiences of those engaged; power relations and (im)balances among different stakeholders; among other dynamics (Koski et al., 2018). Simply, inclusive governance begs greater attention and inquiry into what it means to engage different stakeholders descriptively and substantively in the process and outputs of governance, and even more importantly, whether and under what conditions inclusive governance is associated with improved societal outcomes (OECD, 2020).
+The Handbook on Inclusive Governance is an invaluable resource for scholars and students of public policy, public administration and management and political science. Similarly, policymakers and government agency professionals will benefit from its astute recommendations.
 
 ---
