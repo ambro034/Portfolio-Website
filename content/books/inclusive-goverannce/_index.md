@@ -38,88 +38,89 @@ The Handbook on Inclusive Governance is an invaluable resource for scholars and 
 
 **1. Introduction to the Handbook on Inclusive Governance**
 
-*Graham Ambrose, Saba Siddiki, and Nina R. Y. Blau*
+ *Graham Ambrose, Saba Siddiki, and Nina R. Y. Blau*
 
 **2. Conceptualizing Inclusive Governance Across Sub-fields of Public Affairs: Policy Process, Public Administration, and Public Management**
 
-*Graham Ambrose*
+ *Graham Ambrose*
 
 **3. Governance Theory**
 
-*Christopher Ansell*
+ *Christopher Ansell*
 
 **4. Measuring and Evaluating Inclusive Governance**
 
-*Tomas M. Koontz*
+ *Tomas M. Koontz*
 
 **5. Inclusive Governance as a Bedrock Principle of Liberal Democracy: Overcoming the Gaps Between Ideals and Reality**
 
-*Christopher Koliba, D’Arlyn Bell, and Inoru Yamamoto Morris*
+ *Christopher Koliba, D’Arlyn Bell, and Inoru Yamamoto Morris*
 
 ### Part II. Cases of Inclusive Governance
 
 **6. Participatory Budgeting and Social Justice: Divergent Goals and Mixed Outcomes?**
 
-*Iuliia Shybalkina*
+ *Iuliia Shybalkina*
 
 **7. Bringing the Voices In: Affective Spheres of Governance**
 
-*Anna Durnová and Felix L. Ihrig*
+ *Anna Durnová and Felix L. Ihrig*
 
 **8. Public Participation and Inclusivity in Kenya’s County-Level Energy Planning Process**
 
-*Elizabeth Baldwin and Everline Ogega*
+ *Elizabeth Baldwin and Everline Ogega*
 
 **9. Inclusive Governance in Policing: A New Public Governance Approach**
 
-*James E. Wright II, Brittany D. Houston, and Abby K. Kinch*
+ *James E. Wright II, Brittany D. Houston, and Abby K. Kinch*
 
 **10. Metagoverning the Inclusive and Empowered Co-creation of Green Transitions**
 
-*Alexander L. Q. Chen-Florea, Oda Hustad, and Jacob Torfing*
+ *Alexander L. Q. Chen-Florea, Oda Hustad, and Jacob Torfing*
 
 **11. Inclusive Governance in Food Systems Planning and Policy**
 
-*Jill K. Clark, Aiden Irish, and Karen Bassarab*
+ *Jill K. Clark, Aiden Irish, and Karen Bassarab*
 
 **12. Towards Guiding Principles for AI Chatbots and Inclusive Governance**
 
-*Nicholas Croce, Md Abu Talha, and Kayla Schwoerer*
+ *Nicholas Croce, Md Abu Talha, and Kayla Schwoerer*
 
 **13. Inclusive Governance in Post-disaster Housing Recovery: Adaptive Policies, Practices, and Mechanisms**
 
-*Karen D. Sweeting and Alka Sapat*
+ *Karen D. Sweeting and Alka Sapat*
 
 **14. The Responsible Governance of Artificial Intelligence**
 
-*Emma J. Spett, Benjamin E. K. Ryan, Lindsey Bouzan, Halimeh Abuayyash, Kate Mays, Asim Zia, Maaz Gardezi, and Pablo Cárcamo*
+ *Emma J. Spett, Benjamin E. K. Ryan, Lindsey Bouzan, Halimeh Abuayyash, Kate Mays, Asim Zia, Maaz Gardezi, and Pablo Cárcamo*
 
 ### Part III. Lessons from Practice
 
 **15. Democratizing Air Quality Data Through Low-cost Monitoring Networks**
 
-*Kelly A. Stevens, Thomas Andrew Bryer, and Wanda Parker*
+ *Kelly A. Stevens, Thomas Andrew Bryer, and Wanda Parker*
 
 **16. Inclusive Governance Efforts in Climate Adaptation Interventions: Trade-offs Between Water Security, Climate Resilience, and Environmental Justice**
 
-*Linda Méndez-Barrientos and Amanda L. Fencl*
+ *Linda Méndez-Barrientos and Amanda L. Fencl*
 
 **17. University of Minnesota Extension Regional Sustainable Development Partnerships**
 
-*Molly Zins*
+ *Molly Zins*
 
 **18. Leadership Style and Inclusive Governance: U.S. Federal Government’s Senior Executive Service**
 
-*Catherine Gerard, Margaret G. Hermann, and Joanne M. Kim*
+ *Catherine Gerard, Margaret G. Hermann, and Joanne M. Kim*
 
 ### Part IV. Trends and Future Directions for Research
 
 **19. Leveraging Community Engaged Research Approaches to Reveal Inclusive Processes: A Collaborative Governance Perspective**
 
-*Madison Lackey, Jack Mewhirter, and Danielle M. McLaughlin*
+ *Madison Lackey, Jack Mewhirter, and Danielle M. McLaughlin*
 
 **20. Inclusive Governance: Handbook Themes and Next Steps**
 
-*Saba Siddiki, Graham Ambrose, and Nina R. Y. Blau*
+ *Saba Siddiki, Graham Ambrose, and Nina R. Y. Blau*
+
 
 ---
